@@ -1,0 +1,14 @@
+5/2023
+Marlin 2.1.2 Bugfix/Main Release Merge Version
+CR10-V2 Printer
+CR10-V2 Configuration Files
+
+Modifications use "//DM"
+
+Motherboard: SKR3 V3 STM32H273VG Version. 
+Note there are two versions of this board.
+
+Hotend: H2 V2S Lite High Flow
+BL Touch
+Linear Advance
+Filament Runout Sensor 
