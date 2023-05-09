@@ -17,6 +17,14 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 
 ## Marlin 2.1
 
+* Marlin 2.1.2 with Hot Fixes
+* SKR3 v3 (STM32H723VG) w/TMC2209
+* BTT TFT35-E3 V3.0 Display 
+* CR10 V2 w/OE Filament Runout Sensor mounted to hotend
+* BL Touch
+* BTT H2 V2S Lite Hotend
+* Dual Independent Z Axes
+
 Marlin 2.1 continues to support both 32-bit ARM and 8-bit AVR boards while adding support for up to 9 coordinated axes and to up to 8 extruders.
 
 Download earlier versions of Marlin on the [Releases page](https://github.com/MarlinFirmware/Marlin/releases).
